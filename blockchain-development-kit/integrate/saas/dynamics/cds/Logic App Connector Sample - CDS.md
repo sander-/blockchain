@@ -5,7 +5,7 @@ In this sample, we will demonstrate how to easily integrate with the Common Data
 Service (CDS) and the blockchain using Logic Apps and the Ethereum Blockchain
 Connector for Logic Apps.
 
-the Common Data Service (CDS) represents data as entities. In this sample, you
+The Common Data Service (CDS) represents data as entities. In this sample, you
 will use the built in Logic App connector for the Common Data Service (CDS).
 That connector exposes a trigger named “When a new record is created.”
 

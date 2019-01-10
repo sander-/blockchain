@@ -22,7 +22,7 @@ contract Item is WorkbenchBase("BasicItemRegistry", "Item") {
   address public Owner; //identifier for the Owner of the Item, stored off chain
   string public OwnerDetailHash; //hash of the owner details for the Item, stored off chain
   string public Make; // text here, but could be an Id
-  string public Model; // text here, but coudl be an Id
+  string public Model; // text here, but could be an Id
   string public Color; // text, represents the color of the Item
   string public ManufactureDate; // epoch time
   string public FactoryId; // Reflects an off chain identifier for a Factory;
