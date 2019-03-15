@@ -1,6 +1,6 @@
 # Azure Blockchain Workbench .NET SDK
 
-This project contains a .NET stanard Client SDK for Azure Blockchain Workbench. 
+This project contains a .NET standard Client SDK for Azure Blockchain Workbench. 
 
 You can interact with a Workbench instance via this SDK 
 
